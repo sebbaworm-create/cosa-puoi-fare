@@ -4,5 +4,18 @@
   "createdAt": "2026-10-08T00:09:10.739Z",
   "filename": "fde16285-0903-4868-904f-d7ede48891db.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "3bf0a735-8a32-47f7-8fac-58e8aad57b36",
+      "role": "user",
+      "content": "Ciao Cisa puoi fare ?",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-08T00:13:29.981Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
